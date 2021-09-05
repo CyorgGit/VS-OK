@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angrytest.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="89" height="192" frameX="0" frameY="-7" frameWidth="107" frameHeight="207"/>
+	<SubTexture name="idle0001" x="89" y="0" width="84" height="190" frameX="-9" frameY="-10" frameWidth="107" frameHeight="207"/>
+	<SubTexture name="idle0002" x="173" y="0" width="98" height="191" frameX="-5" frameY="-13" frameWidth="107" frameHeight="207"/>
+	<SubTexture name="idle0003" x="271" y="0" width="85" height="197" frameX="-18" frameY="0" frameWidth="107" frameHeight="207"/>
+	<SubTexture name="idle0004" x="356" y="0" width="80" height="206" frameX="-27" frameY="-1" frameWidth="107" frameHeight="207"/>
+	<SubTexture name="sing down0000" x="436" y="0" width="113" height="138" frameX="0" frameY="0" frameWidth="113" frameHeight="145"/>
+	<SubTexture name="sing down0001" x="549" y="0" width="111" height="142" frameX="0" frameY="-3" frameWidth="113" frameHeight="145"/>
+	<SubTexture name="sing down0002" x="660" y="0" width="108" height="131" frameX="-3" frameY="-12" frameWidth="113" frameHeight="145"/>
+	<SubTexture name="sing left0000" x="768" y="0" width="114" height="143" frameX="0" frameY="0" frameWidth="118" frameHeight="143"/>
+	<SubTexture name="sing left0001" x="882" y="0" width="112" height="132" frameX="-3" frameY="-4" frameWidth="118" frameHeight="143"/>
+	<SubTexture name="sing left0002" x="0" y="206" width="118" height="142" frameX="0" frameY="-1" frameWidth="118" frameHeight="143"/>
+	<SubTexture name="sing right0000" x="118" y="206" width="109" height="168" frameX="0" frameY="-5" frameWidth="113" frameHeight="174"/>
+	<SubTexture name="sing right0001" x="227" y="206" width="106" height="169" frameX="-3" frameY="-4" frameWidth="113" frameHeight="174"/>
+	<SubTexture name="sing right0002" x="333" y="206" width="111" height="174" frameX="-2" frameY="0" frameWidth="113" frameHeight="174"/>
+	<SubTexture name="sing up0000" x="444" y="206" width="82" height="202" frameX="-1" frameY="-1" frameWidth="89" frameHeight="213"/>
+	<SubTexture name="sing up0001" x="526" y="206" width="88" height="205" frameX="0" frameY="0" frameWidth="89" frameHeight="213"/>
+	<SubTexture name="sing up0002" x="614" y="206" width="89" height="204" frameX="0" frameY="-9" frameWidth="89" frameHeight="213"/>
+</TextureAtlas>
